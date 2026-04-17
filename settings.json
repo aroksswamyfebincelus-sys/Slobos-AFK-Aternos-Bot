@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Zentracraft Bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "ZentraCraftSMP.aternos.me:16521",
+    "port": 16521,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -27,11 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "SUB TO ZENTRA",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
@@ -42,9 +42,9 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
